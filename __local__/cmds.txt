@@ -1,0 +1,2 @@
+### Place your local commands or tribal information or aything you want this is just a txt file... ###
+babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
